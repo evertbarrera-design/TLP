@@ -1,6 +1,4 @@
 [README.md](https://github.com/user-attachments/files/31317805/README.md)
-# TLP
-pagina web TLP
 # TLP — Sitio web
 
 Landing page de **TLP, transporte privado de pasajeros en la Región de Coquimbo**,
